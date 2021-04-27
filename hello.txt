@@ -1,4 +1,4 @@
 hello ZZH! Hello Git!zzhxhfsz
 hello ZZH! Hello Git!zzhxhfsz
 hello ZZH! Hello Git!master change
-hello ZZH! Hello Git!
+hello ZZH! Hello Git!hot-fix text
